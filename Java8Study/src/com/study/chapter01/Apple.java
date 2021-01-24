@@ -5,7 +5,7 @@ public class Apple {
 	private String color;
 	
 	private int weight;
-
+//test for
 	public String getColor() {
 		return color;
 	}
